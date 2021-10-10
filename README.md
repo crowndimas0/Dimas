@@ -1,2 +1,2 @@
 # Dimas
-My little project
+Calculate temperature
