@@ -17,7 +17,7 @@ Original file is located at
 
 !pip install astroquery
 
-"""<b><h1 style="position:center">Untuk 51 Pegasi b</b></h1> <br>
+"""<b><h1 style="position:center">For 51 Pegasi b</b></h1> <br>
 <h3>plot radial velocity toward times</h3>
 """
 
